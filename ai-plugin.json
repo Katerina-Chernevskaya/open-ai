@@ -10,7 +10,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "tbd",
+    "url": "https://github.com/Katerina-Chernevskaya/open-ai/blob/87b418d367925c5628d7893a96c535dc9224bf04/openapi.yaml",
     "has_user_authentication": false
   },
   "logo_url": "https://github.com/Katerina-Chernevskaya/Assets/blob/f531f1e1a1f069ebe5f8bf0adc0fc8325983e248/Avatars/BrandonMartinez.png",
