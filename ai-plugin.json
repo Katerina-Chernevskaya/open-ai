@@ -1,0 +1,19 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "retrieval",
+  "name_for_human": "Retrieval Plugin",
+  "description_for_model": "Sets Specific, Measurable, Achievable, Relevant, Time-bound goals.",
+  "description_for_human": "SMART goals",
+  "auth": {
+    "type": "user_http",
+    "authorization_type": "bearer"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "tbd",
+    "has_user_authentication": false
+  },
+  "logo_url": "https://github.com/Katerina-Chernevskaya/Assets/blob/f531f1e1a1f069ebe5f8bf0adc0fc8325983e248/Avatars/BrandonMartinez.png",
+  "contact_email": "katerina.chernevskaya@awara-it.com", 
+  "legal_info_url": "https://awara-it.com/"
+}
